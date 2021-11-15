@@ -1,0 +1,15 @@
+name: DNI
+version: 0.0.2
+author: Pyeh
+description: Plugin creating for Nexus Roleplay
+main: me.pyeh.dni.DNI
+commands:
+  dni:
+    description: Command DNI administrator
+
+softdepend:
+  - LuckPerms
+  - Marriage
+  - Citizens
+  - PlaceholderAPI
+  - MVdWPlaceholderAPI
